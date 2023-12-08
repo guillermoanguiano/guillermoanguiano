@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my portfolio web**
 
-- 🌱 I’m currently learning **Lavarel**
+- 🌱 I’m currently learning **JS**
 
 - 💬 Ask me about **Javascript, Vue**
 
