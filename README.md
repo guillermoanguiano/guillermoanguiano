@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jesus2001guillermo2@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gakzLqUKZSB8uenkzf8y_-SSHfQEhMFa/view?usp=sharing](https://drive.google.com/file/d/1gakzLqUKZSB8uenkzf8y_-SSHfQEhMFa/view?usp=sharing)
+- 📄 Resume: [https://drive.google.com/file/d/1gakzLqUKZSB8uenkzf8y_-SSHfQEhMFa/view?usp=sharing](https://drive.google.com/file/d/1gakzLqUKZSB8uenkzf8y_-SSHfQEhMFa/view?usp=sharing)
 
 
 <p align="left">
