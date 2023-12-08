@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guillermo</h1>
-<h3 align="center">A passionate frontend developer student from Mexico</h3>
+<h3 align="center">A passionate Software Engineer Student from Mexico</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **my portfolio web**
 
 - 🌱 I’m currently learning **Lavarel**
 
