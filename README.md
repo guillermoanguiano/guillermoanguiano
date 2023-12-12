@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **my portfolio web**
 
-- 🌱 I’m currently learning **JS**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Javascript, Vue**
+- 💬 Ask me about **Soccer and Videogames :D**
 
 - 📫 How to reach me **jesus2001guillermo2@gmail.com**
 
