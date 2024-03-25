@@ -1,10 +1,10 @@
-### <div align="center">I'm Guillermo, a Software Engineer Student 👨‍💻 </div>  
+### <div align="center">I'm Guillermo, a Frontend Developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on my portfolio web  
   
 
-- 🌱 I’m currently learning React  
+- 🌱 I’m currently working at Dicalzeus 
   
 
 - ❓ Ask me about anything related to IT and Soccer  
