@@ -1,4 +1,4 @@
-### <div align="center">I'm Guillermo, a Frontend Developer 👨‍💻 </div>  
+### <div align="center">I'm Guillermo, a FullStack Developer 👨‍💻 </div>  
   
 
 - 🔭 I’m currently working on my portfolio web  
