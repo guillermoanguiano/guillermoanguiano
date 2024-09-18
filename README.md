@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my portfolio web  
   
 
-- 🌱 I’m currently working at Dicalzeus 
+- 🌱 I’m currently looking for job 
   
 
 - ❓ Ask me about anything related to IT and Soccer  
