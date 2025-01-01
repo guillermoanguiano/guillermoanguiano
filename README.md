@@ -1,16 +1,4 @@
 ### <div align="center">I'm Guillermo, a FullStack Developer 👨‍💻 </div>  
-  
-
-- 🔭 I’m currently working on my portfolio web  
-  
-
-- 🌱 I’m currently looking for job 
-  
-
-- ❓ Ask me about anything related to IT and Soccer  
-  
-
-<br/>  
 
 
 ## My Skill Set  
