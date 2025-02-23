@@ -1,7 +1,6 @@
 ### <div align="center">I'm Guillermo, a FullStack Developer 👨‍💻 </div>  
 
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://www.linkedin.com/in/guille128/" target="_blank">
